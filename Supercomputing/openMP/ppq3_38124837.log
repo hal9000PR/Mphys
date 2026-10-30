@@ -1,0 +1,50 @@
+My working directory is /users/qnz500/scratch
+Running job on host:
+	node013.viking2.yor.alces.network at Wed Oct 28 17:45:13 GMT 2026
+	with 20 CPU cores available
+	using 20 OMP threads
+
+499500
+0.098236
+1999000
+0.042456
+12497500
+0.042476
+49995000
+0.036447
+199990000
+0.043273
+1249975000
+0.031053
+4999950000
+0.038283
+19999900000
+0.021983
+124999750000
+0.025149
+499999500000
+0.031763
+1999999000000
+0.035865
+12499997500000
+0.074570
+
+============================
+ Job utilisation efficiency
+============================
+
+Job ID: 38124837
+Cluster: viking2.yor.alces.network
+User/Group: qnz500/clusterusers
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 20
+CPU Utilized: 00:00:04
+CPU Efficiency: 0.00% of 00:00:00 core-walltime
+Job Wall-clock time: 00:00:00
+Memory Utilized: 3.65 MB
+Memory Efficiency: 0.00% of 104.79 GB
+ Requested wall clock time: 00:05:00
+    Actual wall clock time: 00:00:00
+Wall clock time efficiency: 0.0%
+           Job queued time: 00:00:00
